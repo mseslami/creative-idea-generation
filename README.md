@@ -17,6 +17,6 @@ can compete with human-generated ideas.
 
 <img width="500" alt="Untitled" src="https://user-images.githubusercontent.com/16519487/201905943-ca389372-7f7a-45a5-a867-e8131d19f6fb.png">
 
-More details on model architecture, dataset, and idea generation is in the report file named [visual metaphor report.pdf ](mseslami/creative-idea-generation/blob/main/visual%20metaphor%20report.pdf).
+More details on model architecture, dataset, and idea generation is in the report file named [visual metaphor report.pdf ](visual%20metaphor%20report.pdf).
 This project is part of a thesis submitted in partial fulfillment of the requirement for the degree of master of science (Doctor
 of Philosophy) in Artificial Intelligence
